@@ -21,3 +21,5 @@ http://espn.tmedia.me/cache/espnews.m3u8
 http://espn.tmedia.me/cache/espnu.m3u8
 #EXTINF:-1,TNT
 http://185.246.209.220/tnt_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NBCS Bay Area
+http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/2596k/prog.m3u8
