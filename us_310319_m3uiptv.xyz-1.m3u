@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,US: NBC
+http://api.new.livestream.com/accounts/11203782/events/3629264/live.m3u8
+#EXTINF:-1,US: NBATV HD
+https://e1.cdn4.us/ingest010/25540.m3u8?sf=NDBwczEwU2JE&token=THs5kXm_kA7mTLWuhqBEug&expires=1555949312&rnd=25540
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="USA",NBA TV
+https://e7.livecamtv.me/zmelive/J0SrB4amf3YORDoMtwvs/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/WTOC-TV_11_logo.svg/300px-WTOC-TV_11_logo.svg.png" group-title="Georgia",CBS 11 Savannah (WTOC)
+http://api.new.livestream.com/accounts/4241684/events/2152811/live.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[USA] CBS HD" tvg-logo="" group-title="USA CHANNELS",[USA] #EXTINF:-1,Disney Channel
+http://203.153.218.26:9981/stream/channelid/2098292279?ticket=90136A20F891DE305235E19C9C1882DCC56745E2&profile=pass
+#EXTINF:-1,US:  NBA TV HD
+http://fonte.iptvmaishd.com:25461/2009/2009/126094
+#EXTINF:-1,Masters
+https://ibm1-live-hls.secure.footprint.net/ibmmasters/live/fg/master_3500.m3u8
+#EXTINF:-1,TNT
+http://185.246.209.220/tnt_hd/tracks-v1a1/mono.m3u8
