@@ -35,3 +35,9 @@ http://yrsprts.xyz/espn.php?ch=abc&.m3u8
 https://2d04.janjua.pw:8088/live/stream_farecnn/playlist.m3u8?id=83034&wowzasessionid=461930609&pk=dd2b2585dab7a4d1627d5a5c593b42c22b77872e59608e1781a526581a892d15
 #EXTINF:-1,NBA TV SD
 https://ul.cdn574.net:8443/hls/kkv7mx.m3u8?s=RPGE_3x0M3nQrcvsTlfN8w&e=1555978646
+#EXTINF:-1,A&E
+https://ul.cdn574.net:8443/hls/p8nvyi1.m3u8?s=ckuoWdq3rHhX-KeqDUi3Pg&e=1555979165
+#EXTINF:-1,NBA TV HD
+https://ul.cdn574.net:8443/hls/kkv7mx.m3u8?s=26OlyVqjQiL3_un1Owfq-Q&e=1555979315
+#EXTINF:-1,CBS
+https://ul.cdn574.net:8443/hls/o67531h9fk.m3u8?s=04hfWQRMpBrJegaWVlEIKQ&e=1555979443
