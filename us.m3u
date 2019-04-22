@@ -25,12 +25,6 @@ http://185.246.209.220/tnt_hd/tracks-v1a1/mono.m3u8
 http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/2596k/prog.m3u8
 #EXTINF:-1,FS1
 http://185.246.209.80/FOX_SPORTS1/mono.m3u8
-#EXTINF:-1,FOX
-https://ul.cdn574.net:8443/hls/ynkbqk1oy.m3u8?s=7F6JGwgAVPqs6zq9NxMKcQ&e=1555976620
-#EXTINF:-1,NBC
-http://1520893312.rsc.contentproxy9.cz/NBC/mono.m3u8
-#EXTINF:-1,ABC
-http://yrsprts.xyz/espn.php?ch=abc&.m3u8
 #EXTINF:-1,CNN
 https://2d04.janjua.pw:8088/live/stream_farecnn/playlist.m3u8?id=83034&wowzasessionid=461930609&pk=dd2b2585dab7a4d1627d5a5c593b42c22b77872e59608e1781a526581a892d15
 #EXTINF:-1,NBA TV SD
@@ -41,3 +35,9 @@ https://ul.cdn574.net:8443/hls/p8nvyi1.m3u8?s=ckuoWdq3rHhX-KeqDUi3Pg&e=155597916
 https://ul.cdn574.net:8443/hls/kkv7mx.m3u8?s=26OlyVqjQiL3_un1Owfq-Q&e=1555979315
 #EXTINF:-1,CBS
 https://ul.cdn574.net:8443/hls/o67531h9fk.m3u8?s=04hfWQRMpBrJegaWVlEIKQ&e=1555979443
+#EXTINF:-1,FOX
+https://ul.cdn574.net:8443/hls/ynkbqk1oy.m3u8?s=7F6JGwgAVPqs6zq9NxMKcQ&e=1555976620
+#EXTINF:-1,NBC
+http://1520893312.rsc.contentproxy9.cz/NBC/mono.m3u8
+#EXTINF:-1,ABC
+http://yrsprts.xyz/espn.php?ch=abc&.m3u8
