@@ -2,16 +2,22 @@
 #EXTINF:-1,US: NBC
 http://api.new.livestream.com/accounts/11203782/events/3629264/live.m3u8
 #EXTINF:-1,US: NBATV HD
-https://e1.cdn4.us/ingest010/25540.m3u8?sf=NDBwczEwU2JE&token=THs5kXm_kA7mTLWuhqBEug&expires=1555949312&rnd=25540
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="USA",NBA TV
-https://e7.livecamtv.me/zmelive/J0SrB4amf3YORDoMtwvs/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/WTOC-TV_11_logo.svg/300px-WTOC-TV_11_logo.svg.png" group-title="Georgia",CBS 11 Savannah (WTOC)
-http://api.new.livestream.com/accounts/4241684/events/2152811/live.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="[USA] CBS HD" tvg-logo="" group-title="USA CHANNELS",[USA] #EXTINF:-1,Disney Channel
-http://203.153.218.26:9981/stream/channelid/2098292279?ticket=90136A20F891DE305235E19C9C1882DCC56745E2&profile=pass
-#EXTINF:-1,US:  NBA TV HD
-http://fonte.iptvmaishd.com:25461/2009/2009/126094
-#EXTINF:-1,Masters
-https://ibm1-live-hls.secure.footprint.net/ibmmasters/live/fg/master_3500.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/21387.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",NBC GOLF
+http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/bet-269x151.png",Bet
+http://espn.tmedia.me/cache/bet.m3u8
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/comedy-central-269x151.png",Comedy Central
+http://espn.tmedia.me/cache/cc.m3u8
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/mtv-269x151.png",MTV
+http://espn.tmedia.me/cache/mtv.m3u8
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/espn-269x151.png",ESPN
+http://espn.tmedia.me/cache/espn1_540.m3u8
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/espn2-269x151.png",ESPN2
+http://espn.tmedia.me/cache/espn2_540.m3u8
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/09/espnews-269x151.png",ESPN News
+http://espn.tmedia.me/cache/espnews.m3u8
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/09/espnu-269x151.png",ESPN U
+http://espn.tmedia.me/cache/espnu.m3u8
 #EXTINF:-1,TNT
 http://185.246.209.220/tnt_hd/tracks-v1a1/mono.m3u8
