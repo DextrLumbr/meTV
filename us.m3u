@@ -51,5 +51,6 @@ http://dksshsdnfejasksneg.vsoeualeysae.xyz/live/4/chunks.m3u8
 http://dksshsdnfejasksneg.vsoeualeysae.xyz/live/5/chunks.m3u8
 #EXTINF:-1,LA Game
 http://dksshsdnfejasksneg.vsoeualeysae.xyz/live/6/chunks.m3u8
-#EXTINF:-1,LA Game
-http://185.233.186.31:8080/live/ESPN.m3u8
+#EXTINF:-1,Memphis Game
+http://cdn.sports24.win/espn.m3u8
+
