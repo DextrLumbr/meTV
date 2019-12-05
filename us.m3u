@@ -28,7 +28,7 @@ http://185.246.209.80/FOX_SPORTS1/mono.m3u8
 #EXTINF:-1,CNN
 https://2d04.janjua.pw:8088/live/stream_farecnn/playlist.m3u8?id=83034&wowzasessionid=461930609&pk=dd2b2585dab7a4d1627d5a5c593b42c22b77872e59608e1781a526581a892d15
 #EXTINF:-1,WESH 2
-https://dai.google.com/linear/hls/pa/event/cwT-uvx5ROaqHYlHudR1Fg/stream/be676bba-97b2-4441-8b5c-00e3787e2a54:CHS/variant/0be1356c467b8614bc2353970268020f/bandwidth/873267.m3u8
+https://dai.google.com/linear/hls/pa/event/cwT-uvx5ROaqHYlHudR1Fg/stream/fda9613c-ac13-40fa-a408-8a657ca6c556:CHS/variant/79c033fcb75ecab385062dbbf77f1fac/bandwidth/1355407.m3u8
 #EXTINF:-1,NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1,FOX 35
