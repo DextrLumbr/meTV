@@ -33,7 +33,7 @@ https://dai.google.com/linear/hls/pa/event/cwT-uvx5ROaqHYlHudR1Fg/stream/fda9613
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1,FOX 35
 https://livestream-f.akamaihd.net/i/6140902_2549335_lsizj8wz7wmantfda8n_1@413820/index_678_av-p.m3u8?sd=4&dw=14400&set-segment-duration=responsive&rebase=on&hdntl=exp=1556045261~acl=%2fi%2f6140902_2549335_lsizj8wz7wmantfda8n_1%40413820%2f*~data=hdntl~hmac=cf840ecfedc9e5c01204ebbab7cd4be2f6e0d63e87822c34a0cdc82c56ce4909
-#EXTINF:-1,USA CBS
+#EXTINF:-1,tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png", USA CBS
 http://161.0.157.9/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1,USA FOX
 http://190.80.3.28/FOX/FOX.isml/index.m3u8
@@ -43,26 +43,7 @@ http://190.80.3.28/ABC/ABC.isml/index.m3u8
 http://weak_spell.carniferou.club/edge/ESPN/chunks.m3u8
 #EXTINF:-1,MSNBC
 http://uyefidksahjsdfi.fejkgvueascnvhea.xyz/live/2/chunks.m3u8
-#EXTINF:-1,NBA Game
-http://cdn1.hdstreams.club/live/ch8/index.m3u8
-#EXTINF:-1,NBA Game
-http://89.248.174.215/live/S10/index.m3u8
-#EXTINF:-1,NBA Game
-http://sv1.doxeaz06.gq/live/Mavericks/chunks.m3u8
-#EXTINF:-1,NBA Game
-http://cdn3.hdstreams.club/live/ch13/index.m3u8
-#EXTINF:-1,NBA Game
-http://oliviamarefalsab.gcdn.co/lv5/5.m3u8
-#EXTINF:-1,NBA Game
-http://oliviamarefalsab.gcdn.co/lv6/6.m3u8
-#EXTINF:-1,NBA Game
-http://oliviamarefalsab.gcdn.co/lv7/7.m3u8
-#EXTINF:-1,NBA Game
-http://oliviamarefalsab.gcdn.co/lv8/8.m3u8
-#EXTINF:-1,NBA Game
-http://rpdkamsheuekfk.trgfijrosdiuewr.xyz/live/1/chunks.m3u8
-#EXTINF:-1,NBA Game
-http://rpdkamsheuekfk.trgfijrosdiuewr.xyz/live/2/chunks.m3u8
+
 
 
 
