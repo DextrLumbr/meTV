@@ -15,14 +15,14 @@ http://weak_spell.carniferou.club/edge/ESPN/chunks.m3u8
 http://uyefidksahjsdfi.fejkgvueascnvhea.xyz/live/2/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", NFL Redzone
 http://tracka.azureedge.net/show/redzone/chunks.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Washington_football_team_wlogo.svg/480px-Washington_football_team_wlogo.svg.png", Washington vs Los Angeles
-http://35.244.168.247/show/redskins/chunks.m3u8
-#EXTINF:-1, Chiefs vs Raiders
-http://34.102.191.26/show/chiefs/chunks.m3u8
-#EXTINF:-1, Steelers vs Eagles
-http://34.107.134.241/show/steelers/chunks.m3u8
-#EXTINF:-1, Ravens vs Bengals
-http://34.107.134.241/show/ravens/chunks.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Washington_football_team_wlogo.svg/480px-Washington_football_team_wlogo.svg.png", Washington
+http://34.120.77.182/show/giants/chunks.m3u8
+#EXTINF:-1, Titans vs Watson
+http://34.120.18.127/show/titans/chunks.m3u8
+#EXTINF:-1, Steelers vs Brownies
+http://34.98.70.83/show/steelers/chunks.m3u8
+#EXTINF:-1, Ravens vs Eagles
+http://34.102.176.143/show/eagles/chunks.m3u8
 
 
 
