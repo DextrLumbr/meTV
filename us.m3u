@@ -23,11 +23,8 @@ http://34.120.18.127/show/titans/chunks.m3u8
 http://34.98.70.83/show/steelers/chunks.m3u8
 #EXTINF:-1, Ravens vs Eagles
 http://34.102.176.143/show/eagles/chunks.m3u8
-#EXTINF:-1, Lakefront TV
-https://reflect-lakefront-leesburgflorida.cablecast.tv/live-4/live/WIFI-1596k-540p/WIFI-1596k-540p.m3u8
 #EXTINF:-1, Comedy Cental
-https://peer2.ustv24h.live/Comedy/myStream/chunks.m3u8?nimblesessionid=53174169&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIwIDQ6MDM6MjAgQU0maGFzaF92YWx1ZT1kL2U4K1JsZWVzZDluM0tzcVRqbHlRPT0mdmFsaWRtaW51dGVzPTI0MA==
-
+http://hls.123tv.live/ch/wnqHUX4kkJ6RwIMpTiK-WQ/1604477379/cc.m3u8
 
 
 
