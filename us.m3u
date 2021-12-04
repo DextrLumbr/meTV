@@ -14,7 +14,7 @@ https://dcs-live2.apis.anvato.net/server/play/0ZGWZ1UrEXpnF5YA/rendition.m3u8?tr
 #EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", NFL Redzone
 https://rtmp.loola.tv:8081/hlspush/ZJMmio-Z13zz5Q.m3u8
 #EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", Orlando Magic
-http://77.247.109.94/hls/n1.m3u8
+https://d385rn79iu063n.cloudfront.net/hls/rockets/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", NY
 http://77.247.109.94/hls/n2.m3u8
 #EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", CLE
