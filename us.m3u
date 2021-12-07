@@ -15,7 +15,7 @@ https://dcs-live2.apis.anvato.net/server/play/0ZGWZ1UrEXpnF5YA/rendition.m3u8?tr
 https://d385rn79iu063n.cloudfront.net/hls/bengals/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", Orlando Magic
 https://d385rn79iu063n.cloudfront.net/hls/rockets/chunks.m3u8
-#EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", NY
-http://77.247.109.94/hls/n2.m3u8
-#EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", CLE
-https://d385rn79iu063n.cloudfront.net/hls/wizards/chunks.m3u8
+#EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", Pacers
+https://d385rn79iu063n.cloudfront.net/hls/pacers/chunks.m3u8
+#EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", Philly
+https://d385rn79iu063n.cloudfront.net/hls/hornets/chunks.m3u8
