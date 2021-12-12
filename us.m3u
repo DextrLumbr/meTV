@@ -16,6 +16,6 @@ https://d385rn79iu063n.cloudfront.net/hls/nflnw/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", Orlando Magic
 https://d385rn79iu063n.cloudfront.net/hls/warriors/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", Pacers
-https://d385rn79iu063n.cloudfront.net/hls/pacers/chunks.m3u8
-#EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", Philly
 https://d385rn79iu063n.cloudfront.net/hls/grizzlies/chunks.m3u8
+#EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", Philly
+https://d385rn79iu063n.cloudfront.net/hls/abc/chunks.m3u8
