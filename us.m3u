@@ -12,10 +12,10 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1,MSNBC
 https://dcs-live2.apis.anvato.net/server/play/0ZGWZ1UrEXpnF5YA/rendition.m3u8?track=video-6&anvsid=i177078859-n9369403e-c960-4331-9207-d8a2f0944777&ts=1605136651&anvtrid=89a12e3e75a883aee16e9397da5d94b8
 #EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", NFL Redzone
-https://d385rn79iu063n.cloudfront.net/hls/redzone/chunks.m3u8
+https://d10nbk66ckd93y.cloudfront.net/hls/redzone/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", Orlando Magic
 https://d385rn79iu063n.cloudfront.net/hls/redskins/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", Pacers
 https://d385rn79iu063n.cloudfront.net/hls/browns/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", Philly
-https://d385rn79iu063n.cloudfront.net/hls/abc/chunks.m3u8
+https://d10nbk66ckd93y.cloudfront.net/hls/nets/chunks.m3u8
