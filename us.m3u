@@ -2,7 +2,7 @@
 #EXTINF:-1,tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbc.png", NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1,tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png", CBS
-http://161.0.157.9/PLTV/88888888/224/3221227041/01.m3u8
+https://d10nbk66ckd93y.cloudfront.net/hls/cbs/chunks.m3u8
 #EXTINF:-1,tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png", FOX News
 https://247.foxnews.com/hls/live/2003586/FNCHLSv3/primary_2628.m3u8
 #EXTINF:-1,USA ABC
