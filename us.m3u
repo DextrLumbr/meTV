@@ -12,9 +12,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1,MSNBC
 https://dcs-live2.apis.anvato.net/server/play/0ZGWZ1UrEXpnF5YA/rendition.m3u8?track=video-6&anvsid=i177078859-n9369403e-c960-4331-9207-d8a2f0944777&ts=1605136651&anvtrid=89a12e3e75a883aee16e9397da5d94b8
 #EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", NFL Redzone
-https://webui.vhls.ru.com/ddy4/premium6/tracks-v1a1/mono.m3u8
+http://waoooa.azureedge.net/live/NTM2OA==/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", Orlando Magic
-https://webui.vhls.ru.com/ddy4/premium30/tracks-v1a1/mono.m3u8
+http://tahamu.azureedge.net/live/NTM2OQ==/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", Pacers
 https://hg-t2.dotice.me/plyvivo/8ug0g0ko2u2u3owuhaki/chunklist.m3u8
 #EXTINF:-1,tvg-logo="https://www.kindpng.com/picc/m/18-183090_nfl-redzone-hd-png-download.png", Philly
